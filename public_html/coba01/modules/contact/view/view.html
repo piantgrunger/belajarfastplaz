@@ -1,0 +1,28 @@
+   <html>
+<head>
+  <title>FastPlaz - Generated Templates</title>
+  <link rel="stylesheet" id="fastplaz-style-css"  href="[$themefullpath]/style/style.css" type="text/css" media="all" />
+</head>
+<body>
+
+    <form method='post'>
+       Name :<input type='Text' name='name'><br>
+       Address :<input type='Text' name='address'><br>
+        <input type ="submit" value="Tambah">
+       </form>
+
+     <table>
+<tr>
+      <td>Name</td>
+      <td>Address</td>
+
+     </tr>
+    [foreach from=$contacts type=table item=row]
+     <tr>
+      <td>[row.name]</td>
+      <td>[row.address]</td>
+
+     </tr>
+    [/foreach from=$contacts]
+     </table>
+     </body>

@@ -1,0 +1,191 @@
+2018-03-11 10:43:40 | init: TMainModule.create()
+2018-03-11 10:43:40 | init: handle request: mod=main
+2018-03-11 10:44:48 | init: TContactsModule.create()
+2018-03-11 10:44:48 | init: handle request: mod=contacts
+2018-03-11 10:44:53 | init: TContactsModule.create()
+2018-03-11 10:44:53 | init: handle request: mod=contacts
+2018-03-11 11:12:27 | init: TContactsModule.create()
+2018-03-11 11:12:27 | init: handle request: mod=contacts
+2018-03-11 11:12:27 | DB: Database connect string (DatabaseName) not filled in!
+2018-03-11 11:12:27 | DB: SELECT 
+FROM tb_contact tb_contact 
+WHERE id='1'
+
+2018-03-11 11:14:03 | init: TContactsModule.create()
+2018-03-11 11:14:03 | init: handle request: mod=contacts
+2018-03-11 11:14:03 | DB: Database connect string (DatabaseName) not filled in!
+2018-03-11 11:14:03 | DB: SELECT 
+FROM tb_contact tb_contact 
+WHERE id='1'
+
+2018-03-11 11:15:07 | init: TContactsModule.create()
+2018-03-11 11:15:07 | init: handle request: mod=contacts
+2018-03-11 11:15:07 | DB: Database connect string (DatabaseName) not filled in!
+2018-03-11 11:15:07 | DB: SELECT 
+FROM tb_contact tb_contact 
+WHERE id='1'
+
+2018-03-11 11:16:09 | init: TContactsModule.create()
+2018-03-11 11:16:09 | init: handle request: mod=contacts
+2018-03-11 11:18:05 | init: TContactsModule.create()
+2018-03-11 11:18:05 | init: handle request: mod=contacts
+2018-03-11 11:18:07 | init: TContactsModule.create()
+2018-03-11 11:18:07 | init: handle request: mod=contacts
+2018-03-11 11:18:22 | init: TContactsModule.create()
+2018-03-11 11:18:22 | init: handle request: mod=contacts
+2018-03-11 11:26:39 | init: TContactsModule.create()
+2018-03-11 11:26:39 | init: handle request: mod=contacts
+2018-03-11 11:27:29 | init: TContactsModule.create()
+2018-03-11 11:27:29 | init: handle request: mod=contacts
+2018-03-11 11:28:12 | init: TContactsModule.create()
+2018-03-11 11:28:12 | init: handle request: mod=contacts
+2018-03-11 11:29:08 | init: TContactsModule.create()
+2018-03-11 11:29:08 | init: handle request: mod=contacts
+2018-03-11 11:29:44 | init: TContactsModule.create()
+2018-03-11 11:29:44 | init: handle request: mod=contacts
+2018-03-11 11:31:53 | init: TContactsModule.create()
+2018-03-11 11:31:53 | init: handle request: mod=contacts
+2018-03-11 11:35:56 | init: TContactsModule.create()
+2018-03-11 11:35:56 | init: handle request: mod=contacts
+2018-03-11 11:44:49 | init: TContactsModule.create()
+2018-03-11 11:44:49 | init: handle request: mod=contacts
+2018-03-11 11:46:00 | init: TContactsModule.create()
+2018-03-11 11:46:00 | init: handle request: mod=contacts
+2018-03-11 11:46:28 | init: TContactsModule.create()
+2018-03-11 11:46:28 | init: handle request: mod=contacts
+2018-03-11 11:47:28 | init: TContactsModule.create()
+2018-03-11 11:47:28 | init: handle request: mod=contacts
+2018-03-11 11:51:43 | init: TContactsModule.create()
+2018-03-11 11:51:43 | init: handle request: mod=contacts
+2018-03-11 11:51:45 | init: TContactsModule.create()
+2018-03-11 11:51:45 | init: handle request: mod=contacts
+2018-03-11 11:52:04 | init: TContactsModule.create()
+2018-03-11 11:52:04 | init: handle request: mod=contacts
+2018-03-11 12:16:21 | init: TContactsModule.create()
+2018-03-11 12:16:21 | init: handle request: mod=contacts
+2018-03-11 12:16:42 | init: TContactsModule.create()
+2018-03-11 12:16:42 | init: handle request: mod=contacts
+2018-03-11 12:18:05 | init: TContactsModule.create()
+2018-03-11 12:18:05 | init: handle request: mod=contacts
+2018-03-11 12:18:26 | init: TContactsModule.create()
+2018-03-11 12:18:26 | init: handle request: mod=contacts
+2018-03-11 12:19:48 | init: TContactsModule.create()
+2018-03-11 12:19:48 | init: handle request: mod=contacts
+2018-03-11 12:21:14 | init: TContactsModule.create()
+2018-03-11 12:21:14 | init: handle request: mod=contacts
+2018-03-11 12:41:47 | init: TContactsModule.create()
+2018-03-11 12:41:47 | init: handle request: mod=contacts
+2018-03-11 12:45:44 | init: TContactsModule.create()
+2018-03-11 12:45:44 | init: handle request: mod=contacts
+2018-03-11 12:46:18 | init: TContactsModule.create()
+2018-03-11 12:46:18 | init: handle request: mod=contacts
+2018-03-11 12:46:22 | init: TContactsModule.create()
+2018-03-11 12:46:22 | init: handle request: mod=contacts
+2018-03-11 12:49:59 | init: TContactsModule.create()
+2018-03-11 12:49:59 | init: handle request: mod=contacts
+2018-03-11 12:50:40 | init: TContactsModule.create()
+2018-03-11 12:50:40 | init: handle request: mod=contacts
+2018-03-11 12:59:27 | init: TContactsModule.create()
+2018-03-11 12:59:27 | init: handle request: mod=contacts
+2018-03-11 12:59:41 | init: TContactsModule.create()
+2018-03-11 12:59:41 | init: handle request: mod=contacts
+2018-03-11 13:06:08 | init: TContactsModule.create()
+2018-03-11 13:06:08 | init: handle request: mod=contacts
+2018-03-11 13:07:43 | init: TContactsModule.create()
+2018-03-11 13:07:43 | init: handle request: mod=contacts
+2018-03-11 13:08:03 | init: TContactsModule.create()
+2018-03-11 13:08:03 | init: handle request: mod=contacts
+2018-03-11 13:08:05 | init: TContactsModule.create()
+2018-03-11 13:08:05 | init: handle request: mod=contacts
+2018-03-11 13:08:06 | init: TContactsModule.create()
+2018-03-11 13:08:06 | init: handle request: mod=contacts
+2018-03-11 13:08:08 | init: TContactsModule.create()
+2018-03-11 13:08:08 | init: handle request: mod=contacts
+2018-03-11 13:12:41 | init: TContactsModule.create()
+2018-03-11 13:12:41 | init: handle request: mod=contacts
+2018-03-11 13:12:49 | init: TContactsModule.create()
+2018-03-11 13:12:49 | init: handle request: mod=contacts
+2018-03-11 13:12:52 | init: TContactsModule.create()
+2018-03-11 13:12:52 | init: handle request: mod=contacts
+2018-03-11 13:13:38 | init: TContactsModule.create()
+2018-03-11 13:13:38 | init: handle request: mod=contacts
+2018-03-11 13:13:44 | init: TContactsModule.create()
+2018-03-11 13:13:44 | init: handle request: mod=contacts
+2018-03-11 13:13:53 | init: TContactsModule.create()
+2018-03-11 13:13:53 | init: handle request: mod=contacts
+2018-03-11 13:32:21 | init: TContactsModule.create()
+2018-03-11 13:32:21 | init: handle request: mod=contacts
+2018-03-11 13:32:23 | init: TContactsModule.create()
+2018-03-11 13:32:23 | init: handle request: mod=contacts
+2018-03-11 13:32:46 | init: TContactsModule.create()
+2018-03-11 13:32:46 | init: handle request: mod=contacts
+2018-03-11 13:33:36 | init: TContactsModule.create()
+2018-03-11 13:33:36 | init: handle request: mod=contacts
+2018-03-11 13:35:07 | init: TContactsModule.create()
+2018-03-11 13:35:07 | init: handle request: mod=contacts
+2018-03-11 13:38:16 | init: TContactsModule.create()
+2018-03-11 13:38:16 | init: handle request: mod=contacts
+2018-03-11 13:49:28 | init: TContactsModule.create()
+2018-03-11 13:49:28 | init: handle request: mod=contacts
+2018-03-11 13:50:23 | init: TContactsModule.create()
+2018-03-11 13:50:23 | init: handle request: mod=contacts
+2018-03-11 13:50:25 | init: TContactsModule.create()
+2018-03-11 13:50:25 | init: handle request: mod=contacts
+2018-03-11 13:51:54 | init: TContactsModule.create()
+2018-03-11 13:51:54 | init: handle request: mod=contacts
+2018-03-11 13:52:49 | init: TContactsModule.create()
+2018-03-11 13:52:49 | init: handle request: mod=contacts
+2018-03-11 13:53:59 | init: TContactsModule.create()
+2018-03-11 13:53:59 | init: handle request: mod=contacts
+2018-03-11 13:55:42 | init: TContactsModule.create()
+2018-03-11 13:55:42 | init: handle request: mod=contacts
+2018-03-11 14:01:14 | init: TContactsModule.create()
+2018-03-11 14:01:14 | init: handle request: mod=contacts
+2018-03-11 14:01:18 | init: TContactsModule.create()
+2018-03-11 14:01:18 | init: handle request: mod=contacts
+2018-03-11 14:01:27 | init: TContactsModule.create()
+2018-03-11 14:01:27 | init: handle request: mod=contacts
+2018-03-11 14:01:29 | init: TContactsModule.create()
+2018-03-11 14:01:29 | init: handle request: mod=contacts
+2018-03-11 14:04:47 | init: TContactsModule.create()
+2018-03-11 14:04:47 | init: handle request: mod=contacts
+2018-03-11 14:07:45 | init: TContactsModule.create()
+2018-03-11 14:07:45 | init: handle request: mod=contacts
+2018-03-11 14:07:47 | init: TContactsModule.create()
+2018-03-11 14:07:47 | init: handle request: mod=contacts
+2018-03-11 14:08:59 | init: TContactsModule.create()
+2018-03-11 14:08:59 | init: handle request: mod=contacts
+2018-03-11 14:09:02 | init: TContactsModule.create()
+2018-03-11 14:09:02 | init: handle request: mod=contacts
+2018-03-11 14:09:32 | init: TContactsModule.create()
+2018-03-11 14:09:32 | init: handle request: mod=contacts
+2018-03-11 14:11:05 | init: TContactsModule.create()
+2018-03-11 14:11:05 | init: handle request: mod=contacts
+2018-03-11 14:11:23 | init: TContactsModule.create()
+2018-03-11 14:11:23 | init: handle request: mod=contacts
+2018-03-11 14:12:12 | init: TContactsModule.create()
+2018-03-11 14:12:12 | init: handle request: mod=contacts
+2018-03-11 14:12:15 | init: TContactsModule.create()
+2018-03-11 14:12:15 | init: handle request: mod=contacts
+2018-03-11 14:12:33 | init: TContactsModule.create()
+2018-03-11 14:12:33 | init: handle request: mod=contacts
+2018-03-11 14:13:53 | init: TContactsModule.create()
+2018-03-11 14:13:53 | init: handle request: mod=contacts
+2018-03-11 14:13:55 | init: TContactsModule.create()
+2018-03-11 14:13:55 | init: handle request: mod=contacts
+2018-03-11 14:14:07 | init: TContactsModule.create()
+2018-03-11 14:14:07 | init: handle request: mod=contacts
+2018-03-11 14:15:46 | init: TContactsModule.create()
+2018-03-11 14:15:46 | init: handle request: mod=contacts
+2018-03-11 14:26:11 | init: TContactsModule.create()
+2018-03-11 14:26:11 | init: handle request: mod=contacts
+2018-03-11 14:27:29 | init: TContactsModule.create()
+2018-03-11 14:27:29 | init: handle request: mod=contacts
+2018-03-11 14:27:52 | init: TContactsModule.create()
+2018-03-11 14:27:52 | init: handle request: mod=contacts
+2018-03-11 14:28:39 | init: TContactsModule.create()
+2018-03-11 14:28:39 | init: handle request: mod=contacts
+2018-03-11 14:41:27 | init: TContactsModule.create()
+2018-03-11 14:41:27 | init: handle request: mod=contacts
+2018-03-11 15:03:25 | init: TContactsModule.create()
+2018-03-11 15:03:25 | init: handle request: mod=contacts

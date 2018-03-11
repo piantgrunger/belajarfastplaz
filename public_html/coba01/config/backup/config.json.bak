@@ -1,0 +1,37 @@
+{
+  "systems" : {
+    "sitename" : "FastPlaz",
+    "slogan" : "Fast Pascal Framework for Web Development",
+    "baseurl" : "",
+    "admin_email" : "admin@course.fastplaz.com",
+    "error_url" : "/",
+    "error_redirect" : false,
+    "debug" : true,
+    "theme_enable" : true,
+    "theme" : "default",
+    "temp" : "ztemp",
+    "session_timeout" : 0
+  },
+  "database" : {
+    "default" : {
+      "driver" : "MySQL 5.6",
+      "hostname" : "localhost",
+      "port" : "",
+      "username" : "root",
+      "password" : "",
+      "database_name" : "db_fastplaz",
+      "prefix" : "",
+      "library" : "D:\course\fastplaz\libmysql.dll"
+    }
+  },
+  "mailer" : {
+    "default" : {
+      "hostname" : "your.mail.server",
+      "username" : "your-username",
+      "password" : "your-password",
+      "smtp_port" : "465",
+      "ssl" : true,
+      "tls" : true
+    }
+  }
+}
