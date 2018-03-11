@@ -51,6 +51,7 @@ begin
   contacts:= TTbcontactModel.Create('tb_contact');
   contacts.GetAll;
   ThemeUtil.Assign('$contacts',@contacts.Data);
+
 {
   json :=TJSONArray.Create();
   DataToJSON(contacts.Data,json,false);
@@ -71,7 +72,7 @@ end;
 
 // GET Method Handler
 procedure TContactsModule.Get;
-
+var contacts:TTbcontactModel;
 
 begin
 
@@ -83,6 +84,17 @@ begin
 
              loaddata;
  // ThemeUtil.Assign('nama',contacts['name']);
+  if (_GET['id'] <>'') and (_GET['action'] = 'Edit' ) then
+  begin
+        contacts:= TTbcontactModel.Create('tb_contact');
+        contacts.Find(_GET['id']);
+          ThemeUtil.Assign('$name',contacts['Name']);
+          ThemeUtil.Assign('$address',contacts['Address']);
+        ThemeUtil.Assign('$id',contacts['id']);
+
+  end ;
+
+
   Tags['maincontent'] := @Tag_MainContent_Handler; //<<-- tag maincontent handler
   Response.Content := ThemeUtil.Render();
 
@@ -100,6 +112,8 @@ procedure TContactsModule.Post;
 begin
   DataBaseInit();
   contacts:= TTbcontactModel.Create('tb_contact');
+  if _POST['id'] <>'' then
+    contacts.Find(_POST['id']);
   contacts['name']:=_POST['name'];
   contacts['address']:=_POST['address'];
     Tags['maincontent'] := @Tag_MainContent_Handler;

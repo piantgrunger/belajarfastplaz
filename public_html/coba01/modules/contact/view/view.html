@@ -6,21 +6,30 @@
 <body>
 
     <form method='post'>
-       Name :<input type='Text' name='name'><br>
-       Address :<input type='Text' name='address'><br>
-        <input type ="submit" value="Tambah">
+    <input type='hidden' name='id' value ="[$id]">
+       Name :<input type='Text' name='name' value ="[$name]" ><br>
+       Address :<input type='Text' name='address' value ="[$address]"><br>
+        <input type ="submit" value="Simpan">
        </form>
 
      <table>
 <tr>
+      <td>id</td>
       <td>Name</td>
       <td>Address</td>
+      <td>Action</td>
+
 
      </tr>
     [foreach from=$contacts type=table item=row]
      <tr>
+      <td>[row.id]</td>
+
       <td>[row.name]</td>
       <td>[row.address]</td>
+      <td><a href="?id=[row.id]&action=Edit">Edit</a>
+      <a href="?id=[row.id]&action=Delete">Delete</a>
+      </td>
 
      </tr>
     [/foreach from=$contacts]
